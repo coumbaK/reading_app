@@ -1,0 +1,24 @@
+@import 'https://fonts.googleapis.com/css?family=Comfortaa:400,700|Fredoka+One|Nunito:400,800,900|Poiret+One|Quicksand:400,500,700';
+html ,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'comfortaa', sans-serif;
+  text-align: center;
+}
+#welcome-section {
+  top: 20;
+  line-height: 1.6;
+  background: #4e5837;
+  min-height: 55vh;
+  padding-top: 45vh;
+  
+}
+.section {
+  top: 20;
+  line-height: 1.6;
+  min-height: 55vh;
+  padding-top: 45vh;
+}
+
+
